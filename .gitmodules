@@ -1,0 +1,3 @@
+[submodule "another_repo"]
+	path = another_repo
+	url = git@github.com:dushyants/vms.git
